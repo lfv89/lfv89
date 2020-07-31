@@ -2,3 +2,5 @@
 
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://lfv89.dev)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://lfv89.dev)
+
+![](https://github.com/lfv89/lfv89/blob/master/vim.jpeg?raw=true)
