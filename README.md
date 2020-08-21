@@ -3,4 +3,10 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://lfv89.dev)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://lfv89.dev)
 
+
+<details>
+  <summary> "If you immerse yourself into a foreign language, you can rewire your brain."</summary>
+    
 ![](https://github.com/lfv89/lfv89/blob/master/vim.png?raw=true)
+
+</details>
