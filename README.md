@@ -5,7 +5,7 @@
 
 
 <details>
-  <summary>"If you immerse yourself into a foreign language, you can rewire your brain." ⬇️</summary>
+  <summary>"If you immerse yourself into a foreign language, you can rewire your brain." </summary>
 
 ![](https://github.com/lfv89/lfv89/blob/master/vim.png?raw=true)
 </details>
